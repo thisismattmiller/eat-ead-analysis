@@ -1,0 +1,1902 @@
+{
+  "Q66": {
+    "label": "Max Roach",
+    "count": 90
+  },
+  "Q724": {
+    "label": "John Cage",
+    "count": 42
+  },
+  "Q1019": {
+    "label": "Igor Stravinsky",
+    "count": 3
+  },
+  "Q1906": {
+    "label": "Lyndon Johnson",
+    "count": 3
+  },
+  "Q19119": {
+    "label": "A.V. Robinett",
+    "count": 1
+  },
+  "Q19121": {
+    "label": "Adi Rischner",
+    "count": 2
+  },
+  "Q19123": {
+    "label": "Alex Grant",
+    "count": 3
+  },
+  "Q19124": {
+    "label": "Alex Hay",
+    "count": 42
+  },
+  "Q19125": {
+    "label": "Alexander Archipenko",
+    "count": 2
+  },
+  "Q19126": {
+    "label": "Alexander Calder",
+    "count": 3
+  },
+  "Q19127": {
+    "label": "Alfons Schilling",
+    "count": 7
+  },
+  "Q19128": {
+    "label": "Alfred H. Barr",
+    "count": 2
+  },
+  "Q19129": {
+    "label": "Alfred Kurchin",
+    "count": 1
+  },
+  "Q19130": {
+    "label": "Alfred Leslie",
+    "count": 4
+  },
+  "Q19131": {
+    "label": "Alice Denney",
+    "count": 5
+  },
+  "Q19132": {
+    "label": "Alice Schwebke",
+    "count": 5
+  },
+  "Q19133": {
+    "label": "Allan Kaprow",
+    "count": 6
+  },
+  "Q19139": {
+    "label": "Amos Vogel",
+    "count": 1
+  },
+  "Q19143": {
+    "label": "Andy Warhol",
+    "count": 10
+  },
+  "Q19144": {
+    "label": "Anita Reuben",
+    "count": 1
+  },
+  "Q19145": {
+    "label": "Anthony Gnazzo",
+    "count": 3
+  },
+  "Q19146": {
+    "label": "Anthony McCall",
+    "count": 1
+  },
+  "Q19150": {
+    "label": "Arman",
+    "count": 3
+  },
+  "Q19151": {
+    "label": "Armand Phillip Bartos",
+    "count": 1
+  },
+  "Q19155": {
+    "label": "Arthur A. Houghton Jr.",
+    "count": 1
+  },
+  "Q19156": {
+    "label": "Arthur Albiston",
+    "count": 2
+  },
+  "Q19162": {
+    "label": "Audrey Sabol",
+    "count": 4
+  },
+  "Q19167": {
+    "label": "Barbara Jarvis",
+    "count": 1
+  },
+  "Q19168": {
+    "label": "Barbro Fahlstrom",
+    "count": 2
+  },
+  "Q19171": {
+    "label": "Becky Arnold",
+    "count": 1
+  },
+  "Q19172": {
+    "label": "Bela Julesz",
+    "count": 3
+  },
+  "Q19174": {
+    "label": "Ben Kramer",
+    "count": 3
+  },
+  "Q19175": {
+    "label": "Benjamin Lloyd",
+    "count": 1
+  },
+  "Q19178": {
+    "label": "Bill Hartig",
+    "count": 5
+  },
+  "Q19179": {
+    "label": "Bill Kaminski",
+    "count": 5
+  },
+  "Q19180": {
+    "label": "Billy Kl\u00fcver",
+    "count": 189
+  },
+  "Q19183": {
+    "label": "Bob DiLorenzo",
+    "count": 2
+  },
+  "Q19184": {
+    "label": "Bob Kieronski",
+    "count": 6
+  },
+  "Q19185": {
+    "label": "Bob Schuler",
+    "count": 3
+  },
+  "Q19187": {
+    "label": "Brice Marden",
+    "count": 3
+  },
+  "Q19189": {
+    "label": "Bruce Glushakow",
+    "count": 3
+  },
+  "Q19190": {
+    "label": "Buckminster Fuller",
+    "count": 2
+  },
+  "Q19191": {
+    "label": "Burns",
+    "count": 2
+  },
+  "Q19193": {
+    "label": "C. Pologe",
+    "count": 2
+  },
+  "Q19194": {
+    "label": "C. Ray Smith",
+    "count": 2
+  },
+  "Q19195": {
+    "label": "Calvin Tompkins",
+    "count": 2
+  },
+  "Q19196": {
+    "label": "Cap Lundberg",
+    "count": 1
+  },
+  "Q19199": {
+    "label": "Carl Andre",
+    "count": 3
+  },
+  "Q19200": {
+    "label": "Carol Summers",
+    "count": 3
+  },
+  "Q19201": {
+    "label": "Carolee Schneemann",
+    "count": 2
+  },
+  "Q19202": {
+    "label": "Carolyn Brown",
+    "count": 4
+  },
+  "Q19204": {
+    "label": "Cecil Coker",
+    "count": 12
+  },
+  "Q19208": {
+    "label": "Christine Frohnert",
+    "count": 1
+  },
+  "Q19209": {
+    "label": "Christophe de Menil",
+    "count": 6
+  },
+  "Q19210": {
+    "label": "Chuck Close",
+    "count": 1
+  },
+  "Q19214": {
+    "label": "Claes Collenberg",
+    "count": 2
+  },
+  "Q19215": {
+    "label": "Claes Oldenburg",
+    "count": 23
+  },
+  "Q19216": {
+    "label": "Clark Poling",
+    "count": 2
+  },
+  "Q19217": {
+    "label": "Clay Felker",
+    "count": 3
+  },
+  "Q19219": {
+    "label": "Conrad Pologe",
+    "count": 2
+  },
+  "Q19222": {
+    "label": "Costantino Nivola",
+    "count": 1
+  },
+  "Q19226": {
+    "label": "Daniel A. Roblin, Jr.",
+    "count": 1
+  },
+  "Q19227": {
+    "label": "David Anderson",
+    "count": 1
+  },
+  "Q19228": {
+    "label": "David Behrman",
+    "count": 4
+  },
+  "Q19229": {
+    "label": "David Bourdon",
+    "count": 2
+  },
+  "Q19230": {
+    "label": "David Gahr",
+    "count": 1
+  },
+  "Q19231": {
+    "label": "David Gordon",
+    "count": 1
+  },
+  "Q19232": {
+    "label": "David Long",
+    "count": 1
+  },
+  "Q19233": {
+    "label": "David Tudor",
+    "count": 42
+  },
+  "Q19234": {
+    "label": "David White",
+    "count": 4
+  },
+  "Q19235": {
+    "label": "Deborah Hay",
+    "count": 43
+  },
+  "Q19236": {
+    "label": "Denis Pelli",
+    "count": 1
+  },
+  "Q19237": {
+    "label": "Denise Ren\u00e9",
+    "count": 3
+  },
+  "Q19238": {
+    "label": "Dick Wolff",
+    "count": 4
+  },
+  "Q19240": {
+    "label": "Dominique de Menil",
+    "count": 2
+  },
+  "Q19241": {
+    "label": "Donald Judd",
+    "count": 2
+  },
+  "Q19242": {
+    "label": "Donald Saff",
+    "count": 2
+  },
+  "Q19243": {
+    "label": "Dore Ashton",
+    "count": 5
+  },
+  "Q19246": {
+    "label": "Ed Carpentor",
+    "count": 3
+  },
+  "Q19247": {
+    "label": "Ed Iverson",
+    "count": 4
+  },
+  "Q19248": {
+    "label": "Edwin S. Langsam",
+    "count": 4
+  },
+  "Q19249": {
+    "label": "Eknath Vasant Chitnis",
+    "count": 1
+  },
+  "Q19250": {
+    "label": "Elaine Summers",
+    "count": 1
+  },
+  "Q19251": {
+    "label": "Eleanor Howard",
+    "count": 11
+  },
+  "Q19254": {
+    "label": "Elfink",
+    "count": 1
+  },
+  "Q19256": {
+    "label": "Ella Pincus",
+    "count": 3
+  },
+  "Q19257": {
+    "label": "Emily Heine",
+    "count": 3
+  },
+  "Q19259": {
+    "label": "Erik Satie",
+    "count": 2
+  },
+  "Q19260": {
+    "label": "Ernst Rothkopf",
+    "count": 1
+  },
+  "Q19262": {
+    "label": "Ethel Scull",
+    "count": 1
+  },
+  "Q19269": {
+    "label": "Findley",
+    "count": 1
+  },
+  "Q19276": {
+    "label": "Francis Mason",
+    "count": 1
+  },
+  "Q19277": {
+    "label": "Frank Gehry",
+    "count": 1
+  },
+  "Q19278": {
+    "label": "Frank Konigsberg",
+    "count": 11
+  },
+  "Q19279": {
+    "label": "Frank Stanton",
+    "count": 1
+  },
+  "Q19280": {
+    "label": "Frank Stella",
+    "count": 7
+  },
+  "Q19281": {
+    "label": "Franny Breer",
+    "count": 7
+  },
+  "Q19282": {
+    "label": "Fred D. Waldhauer",
+    "count": 36
+  },
+  "Q19283": {
+    "label": "Fujiko Nakaya",
+    "count": 12
+  },
+  "Q19285": {
+    "label": "Fyodor Dostoyevsky",
+    "count": 1
+  },
+  "Q19391": {
+    "label": "Larry Goldsmith",
+    "count": 3
+  },
+  "Q19392": {
+    "label": "Larry Heilos",
+    "count": 7
+  },
+  "Q19393": {
+    "label": "Larry Leitch",
+    "count": 4
+  },
+  "Q19394": {
+    "label": "Larry Owens",
+    "count": 3
+  },
+  "Q19395": {
+    "label": "L\u00e1szl\u00f3 Moholy-Nagy",
+    "count": 3
+  },
+  "Q19396": {
+    "label": "Laura Ball",
+    "count": 2
+  },
+  "Q19397": {
+    "label": "Laurence Getford",
+    "count": 1
+  },
+  "Q19399": {
+    "label": "Leo Castelli",
+    "count": 8
+  },
+  "Q19401": {
+    "label": "Leon Kraushar",
+    "count": 1
+  },
+  "Q19402": {
+    "label": "Leonardo da Vinci",
+    "count": 1
+  },
+  "Q19403": {
+    "label": "Les Levine",
+    "count": 9
+  },
+  "Q19404": {
+    "label": "Lester Avnet",
+    "count": 1
+  },
+  "Q19405": {
+    "label": "Letty Lou Eisenhauer",
+    "count": 5
+  },
+  "Q19406": {
+    "label": "Lewis Lloyd",
+    "count": 1
+  },
+  "Q19409": {
+    "label": "Linda Millenstein",
+    "count": 3
+  },
+  "Q19410": {
+    "label": "Linda Perlman",
+    "count": 3
+  },
+  "Q19412": {
+    "label": "Liz Lerman",
+    "count": 1
+  },
+  "Q19415": {
+    "label": "Lucas Samaras",
+    "count": 2
+  },
+  "Q19418": {
+    "label": "Lucinda Childs",
+    "count": 34
+  },
+  "Q19419": {
+    "label": "Lucy Jarvis",
+    "count": 3
+  },
+  "Q19420": {
+    "label": "Lucy Lippard",
+    "count": 3
+  },
+  "Q19421": {
+    "label": "Ludwig Feuerbach",
+    "count": 2
+  },
+  "Q19422": {
+    "label": "M. Shatadsky",
+    "count": 2
+  },
+  "Q19427": {
+    "label": "Mao Tse Tung",
+    "count": 1
+  },
+  "Q19429": {
+    "label": "Marcel Duchamp",
+    "count": 4
+  },
+  "Q19430": {
+    "label": "Margaret Hecht",
+    "count": 3
+  },
+  "Q19431": {
+    "label": "Margot Hahn",
+    "count": 3
+  },
+  "Q19432": {
+    "label": "Marian Javits",
+    "count": 8
+  },
+  "Q19433": {
+    "label": "Marie Christophe Thurman",
+    "count": 4
+  },
+  "Q19434": {
+    "label": "Marjorie Strider",
+    "count": 4
+  },
+  "Q19435": {
+    "label": "Marshall McLuhan",
+    "count": 2
+  },
+  "Q19436": {
+    "label": "Marta Minuj\u00edn",
+    "count": 2
+  },
+  "Q19438": {
+    "label": "Martin Wazowicz",
+    "count": 1
+  },
+  "Q19440": {
+    "label": "Maurice Grossman",
+    "count": 2
+  },
+  "Q19441": {
+    "label": "Maurice Tuchman",
+    "count": 1
+  },
+  "Q19442": {
+    "label": "Max Baker",
+    "count": 3
+  },
+  "Q19443": {
+    "label": "Max Mathews",
+    "count": 4
+  },
+  "Q19444": {
+    "label": "Max Neuhaus",
+    "count": 3
+  },
+  "Q19445": {
+    "label": "Maya Deren",
+    "count": 2
+  },
+  "Q19446": {
+    "label": "McNeali",
+    "count": 2
+  },
+  "Q19448": {
+    "label": "Merce Cunningham",
+    "count": 14
+  },
+  "Q19450": {
+    "label": "Meredith Monk",
+    "count": 1
+  },
+  "Q19451": {
+    "label": "Merle Fainsod",
+    "count": 2
+  },
+  "Q19452": {
+    "label": "Michael Kirby",
+    "count": 2
+  },
+  "Q19454": {
+    "label": "Mildred Schmertz",
+    "count": 2
+  },
+  "Q19455": {
+    "label": "Mimi Kanarek",
+    "count": 6
+  },
+  "Q19456": {
+    "label": "Mimi Stark",
+    "count": 4
+  },
+  "Q19458": {
+    "label": "Miss Braut",
+    "count": 2
+  },
+  "Q19459": {
+    "label": "Miss Corso",
+    "count": 2
+  },
+  "Q19460": {
+    "label": "Miss Ducel",
+    "count": 2
+  },
+  "Q19463": {
+    "label": "Moses Znaimer",
+    "count": 1
+  },
+  "Q19466": {
+    "label": "Mr. Felkes",
+    "count": 1
+  },
+  "Q19467": {
+    "label": "Mr. Margolies",
+    "count": 1
+  },
+  "Q19468": {
+    "label": "Mr. Shestack",
+    "count": 1
+  },
+  "Q19469": {
+    "label": "Mrs. Maurice Grossman",
+    "count": 1
+  },
+  "Q19472": {
+    "label": "Nam June Paik",
+    "count": 3
+  },
+  "Q19473": {
+    "label": "Nancy Chandler",
+    "count": 1
+  },
+  "Q19474": {
+    "label": "Nat Snyderman",
+    "count": 3
+  },
+  "Q19475": {
+    "label": "Natalie Schram",
+    "count": 3
+  },
+  "Q19478": {
+    "label": "Naum Gabo",
+    "count": 3
+  },
+  "Q19489": {
+    "label": "Niki de Saint Phalle",
+    "count": 3
+  },
+  "Q19490": {
+    "label": "Nina Cullinan",
+    "count": 1
+  },
+  "Q19491": {
+    "label": "Nina Kaiden",
+    "count": 9
+  },
+  "Q19493": {
+    "label": "Olga Adorno",
+    "count": 2
+  },
+  "Q19494": {
+    "label": "Olga Kl\u00fcver",
+    "count": 4
+  },
+  "Q19497": {
+    "label": "\u00d6yvind Fahlstr\u00f6m",
+    "count": 29
+  },
+  "Q19498": {
+    "label": "Pablo Picasso",
+    "count": 4
+  },
+  "Q19501": {
+    "label": "Patty Mucha",
+    "count": 3
+  },
+  "Q19502": {
+    "label": "Paul A. Lepercq",
+    "count": 3
+  },
+  "Q19503": {
+    "label": "Paul Libin",
+    "count": 1
+  },
+  "Q19504": {
+    "label": "Paul Taylor",
+    "count": 1
+  },
+  "Q19505": {
+    "label": "Paul Tishman",
+    "count": 1
+  },
+  "Q19508": {
+    "label": "Per Biorn",
+    "count": 16
+  },
+  "Q19509": {
+    "label": "Per Olof Ultvedt",
+    "count": 3
+  },
+  "Q19510": {
+    "label": "Pers",
+    "count": 2
+  },
+  "Q19511": {
+    "label": "Pete Cumminski",
+    "count": 2
+  },
+  "Q19512": {
+    "label": "Peter Ballantine",
+    "count": 1
+  },
+  "Q19513": {
+    "label": "Peter Hirsch",
+    "count": 8
+  },
+  "Q19514": {
+    "label": "Peter Moore",
+    "count": 1
+  },
+  "Q19515": {
+    "label": "Peter Poole",
+    "count": 5
+  },
+  "Q19516": {
+    "label": "Phil MacMullan",
+    "count": 1
+  },
+  "Q19517": {
+    "label": "Philip C. Johnson",
+    "count": 2
+  },
+  "Q19518": {
+    "label": "Philip Ording",
+    "count": 1
+  },
+  "Q19523": {
+    "label": "Porter A. McCray",
+    "count": 1
+  },
+  "Q19524": {
+    "label": "Pretorias",
+    "count": 2
+  },
+  "Q19525": {
+    "label": "Priscilla Peck",
+    "count": 3
+  },
+  "Q19529": {
+    "label": "Pucci Meyers",
+    "count": 3
+  },
+  "Q19532": {
+    "label": "Pyotr Ilyich Tchaikovsky",
+    "count": 2
+  },
+  "Q19535": {
+    "label": "Ralph C. Gross",
+    "count": 3
+  },
+  "Q19536": {
+    "label": "Ralph Flynn",
+    "count": 8
+  },
+  "Q19538": {
+    "label": "Red Grooms",
+    "count": 2
+  },
+  "Q19539": {
+    "label": "Renzo Piano",
+    "count": 3
+  },
+  "Q19542": {
+    "label": "Richard Bellamy",
+    "count": 1
+  },
+  "Q19543": {
+    "label": "Richard Feynman",
+    "count": 2
+  },
+  "Q19544": {
+    "label": "Richard Hennessy",
+    "count": 2
+  },
+  "Q19545": {
+    "label": "Richard Rogers",
+    "count": 2
+  },
+  "Q19546": {
+    "label": "Richard Serra",
+    "count": 1
+  },
+  "Q19547": {
+    "label": "Richard Stankiewicz",
+    "count": 3
+  },
+  "Q19548": {
+    "label": "L.J. Robinson",
+    "count": 12
+  },
+  "Q19550": {
+    "label": "Robert Breer",
+    "count": 7
+  },
+  "Q19551": {
+    "label": "Robert Breer",
+    "count": 4
+  },
+  "Q19552": {
+    "label": "Robert Cooper Scull",
+    "count": 4
+  },
+  "Q19553": {
+    "label": "Robert Ellis Dunn",
+    "count": 3
+  },
+  "Q19554": {
+    "label": "Robert Fagan",
+    "count": 4
+  },
+  "Q19555": {
+    "label": "Robert O. Anderson",
+    "count": 2
+  },
+  "Q19556": {
+    "label": "Robert Rauschenberg",
+    "count": 194
+  },
+  "Q19557": {
+    "label": "Robert Smith",
+    "count": 3
+  },
+  "Q19558": {
+    "label": "Robert Whitman",
+    "count": 85
+  },
+  "Q19559": {
+    "label": "Robert Wood",
+    "count": 2
+  },
+  "Q19560": {
+    "label": "Robyn Richmond",
+    "count": 2
+  },
+  "Q19563": {
+    "label": "Roger L. Stevens",
+    "count": 1
+  },
+  "Q19564": {
+    "label": "Roger Schoening",
+    "count": 3
+  },
+  "Q19565": {
+    "label": "Rolf de Mar\u00e9",
+    "count": 1
+  },
+  "Q19566": {
+    "label": "Ron Bentey",
+    "count": 2
+  },
+  "Q19567": {
+    "label": "Rosalind Constable",
+    "count": 2
+  },
+  "Q19568": {
+    "label": "Rose Marie Castoro",
+    "count": 1
+  },
+  "Q19569": {
+    "label": "Rose Petrock",
+    "count": 1
+  },
+  "Q19570": {
+    "label": "Roy Lichtenstein",
+    "count": 4
+  },
+  "Q19571": {
+    "label": "Rubin Gorewitz",
+    "count": 5
+  },
+  "Q19573": {
+    "label": "Rudy Kerl",
+    "count": 1
+  },
+  "Q19574": {
+    "label": "Ruth Ansel",
+    "count": 3
+  },
+  "Q19575": {
+    "label": "Ruth Volmer",
+    "count": 2
+  },
+  "Q19576": {
+    "label": "Ruth Wolfe",
+    "count": 3
+  },
+  "Q19577": {
+    "label": "Sam Francis",
+    "count": 2
+  },
+  "Q19587": {
+    "label": "Sergei Diaghilev",
+    "count": 2
+  },
+  "Q19588": {
+    "label": "Seymour Schweber",
+    "count": 8
+  },
+  "Q19591": {
+    "label": "Sigvard Strandh",
+    "count": 3
+  },
+  "Q19594": {
+    "label": "Simone Forti",
+    "count": 27
+  },
+  "Q19595": {
+    "label": "Simone Swan",
+    "count": 2
+  },
+  "Q19289": {
+    "label": "George Kern",
+    "count": 2
+  },
+  "Q19290": {
+    "label": "George McGovern",
+    "count": 1
+  },
+  "Q19291": {
+    "label": "George Rostky",
+    "count": 3
+  },
+  "Q19292": {
+    "label": "George Segal",
+    "count": 4
+  },
+  "Q19293": {
+    "label": "Gert Schiff",
+    "count": 2
+  },
+  "Q19294": {
+    "label": "Gil Miller",
+    "count": 2
+  },
+  "Q19295": {
+    "label": "Gloria Bryant",
+    "count": 5
+  },
+  "Q19296": {
+    "label": "Gloria Graves",
+    "count": 1
+  },
+  "Q19297": {
+    "label": "Gordon Hyatt",
+    "count": 2
+  },
+  "Q19298": {
+    "label": "Gottfried Wilhelm Leibniz",
+    "count": 1
+  },
+  "Q19300": {
+    "label": "Gyorgy Kepes",
+    "count": 4
+  },
+  "Q19301": {
+    "label": "H. W. Janson",
+    "count": 1
+  },
+  "Q19302": {
+    "label": "Hannes Alfv\u00e9n",
+    "count": 2
+  },
+  "Q19305": {
+    "label": "Harold Hodges",
+    "count": 11
+  },
+  "Q19307": {
+    "label": "Harry Abrams",
+    "count": 2
+  },
+  "Q19308": {
+    "label": "Harry Van Arsdale",
+    "count": 2
+  },
+  "Q19310": {
+    "label": "Henry Hewes",
+    "count": 1
+  },
+  "Q19311": {
+    "label": "Henry R. Lieberman",
+    "count": 2
+  },
+  "Q19312": {
+    "label": "Herb Schneider",
+    "count": 7
+  },
+  "Q19313": {
+    "label": "Herman D. Kenin",
+    "count": 5
+  },
+  "Q19316": {
+    "label": "Horace Solomon",
+    "count": 1
+  },
+  "Q19318": {
+    "label": "Howard Marks",
+    "count": 4
+  },
+  "Q19320": {
+    "label": "Hugh Mitchell",
+    "count": 2
+  },
+  "Q19321": {
+    "label": "I. M. Pei",
+    "count": 1
+  },
+  "Q19323": {
+    "label": "Ileana Sonnabend",
+    "count": 2
+  },
+  "Q19325": {
+    "label": "Irfan Camlibel",
+    "count": 1
+  },
+  "Q19327": {
+    "label": "J. Brown",
+    "count": 3
+  },
+  "Q19328": {
+    "label": "Jack Klein",
+    "count": 3
+  },
+  "Q19329": {
+    "label": "Jackson Pollock",
+    "count": 4
+  },
+  "Q19330": {
+    "label": "Jacob Koppel Javits",
+    "count": 8
+  },
+  "Q19331": {
+    "label": "Jacqueline Leavitt",
+    "count": 1
+  },
+  "Q19332": {
+    "label": "Jacques Cousteau",
+    "count": 1
+  },
+  "Q19333": {
+    "label": "James Tenny",
+    "count": 2
+  },
+  "Q19334": {
+    "label": "James Whitney",
+    "count": 1
+  },
+  "Q19335": {
+    "label": "Jane Kronholz",
+    "count": 3
+  },
+  "Q19336": {
+    "label": "Jane Wilson",
+    "count": 1
+  },
+  "Q19337": {
+    "label": "Janet Kardon",
+    "count": 3
+  },
+  "Q19338": {
+    "label": "Jasper Johns",
+    "count": 13
+  },
+  "Q19339": {
+    "label": "Jean Tinguely",
+    "count": 25
+  },
+  "Q19340": {
+    "label": "Jeff Strickler",
+    "count": 1
+  },
+  "Q19341": {
+    "label": "Jennifer Tipton",
+    "count": 1
+  },
+  "Q19342": {
+    "label": "Jerald Ordover",
+    "count": 5
+  },
+  "Q19343": {
+    "label": "Jerry Agel",
+    "count": 2
+  },
+  "Q19345": {
+    "label": "Jill Jakes",
+    "count": 5
+  },
+  "Q19346": {
+    "label": "Jim Dine",
+    "count": 8
+  },
+  "Q19347": {
+    "label": "Jim Jardy",
+    "count": 2
+  },
+  "Q19348": {
+    "label": "Jim McGee",
+    "count": 6
+  },
+  "Q19349": {
+    "label": "Joan Kron",
+    "count": 3
+  },
+  "Q19350": {
+    "label": "Joe Chislow",
+    "count": 1
+  },
+  "Q19351": {
+    "label": "Joe Schlichter",
+    "count": 2
+  },
+  "Q19352": {
+    "label": "Johann Sebastian Bach",
+    "count": 2
+  },
+  "Q19353": {
+    "label": "John B. Hightower",
+    "count": 2
+  },
+  "Q19354": {
+    "label": "John Brockman",
+    "count": 2
+  },
+  "Q19355": {
+    "label": "John D. Rockefeller III",
+    "count": 1
+  },
+  "Q19356": {
+    "label": "John de Menil",
+    "count": 1
+  },
+  "Q19357": {
+    "label": "John G. Powers",
+    "count": 2
+  },
+  "Q19358": {
+    "label": "John Giorno",
+    "count": 2
+  },
+  "Q19359": {
+    "label": "John Glover",
+    "count": 2
+  },
+  "Q19360": {
+    "label": "John Loeb, Jr.",
+    "count": 1
+  },
+  "Q19361": {
+    "label": "John O'Connor",
+    "count": 2
+  },
+  "Q19362": {
+    "label": "John Powers",
+    "count": 2
+  },
+  "Q19363": {
+    "label": "John R. Pierce",
+    "count": 10
+  },
+  "Q19365": {
+    "label": "John Whitney",
+    "count": 1
+  },
+  "Q19366": {
+    "label": "Jonas Mekas",
+    "count": 3
+  },
+  "Q19367": {
+    "label": "Judith Dunn",
+    "count": 2
+  },
+  "Q19370": {
+    "label": "Julie Judd",
+    "count": 3
+  },
+  "Q19371": {
+    "label": "Julie Martin",
+    "count": 10
+  },
+  "Q19372": {
+    "label": "June Ekman",
+    "count": 1
+  },
+  "Q19373": {
+    "label": "Karl Marx",
+    "count": 1
+  },
+  "Q19374": {
+    "label": "Karl Zerbe",
+    "count": 2
+  },
+  "Q19375": {
+    "label": "K\u00e4the Kollwitz",
+    "count": 2
+  },
+  "Q19376": {
+    "label": "Kathy Iverson",
+    "count": 3
+  },
+  "Q19378": {
+    "label": "Ken Harsell",
+    "count": 2
+  },
+  "Q19379": {
+    "label": "Ken Knowlton",
+    "count": 6
+  },
+  "Q19383": {
+    "label": "Klaus Wust",
+    "count": 2
+  },
+  "Q19384": {
+    "label": "Knut Wiggen",
+    "count": 4
+  },
+  "Q19385": {
+    "label": "Kosugi",
+    "count": 2
+  },
+  "Q19387": {
+    "label": "L.D. Harmon",
+    "count": 5
+  },
+  "Q19389": {
+    "label": "Lane Kirkland",
+    "count": 1
+  },
+  "Q19390": {
+    "label": "Larry Aldrich",
+    "count": 1
+  },
+  "Q19842": {
+    "label": "Alan Posner",
+    "count": 2
+  },
+  "Q22369": {
+    "label": "Sandy Daley",
+    "count": 1
+  },
+  "Q22374": {
+    "label": "Nicholas Quennell",
+    "count": 1
+  },
+  "Q22378": {
+    "label": "Medford Schwarz",
+    "count": 1
+  },
+  "Q22379": {
+    "label": "Jeremy Tribe",
+    "count": 1
+  },
+  "Q22640": {
+    "label": "Dean Brown",
+    "count": 0
+  },
+  "Q22641": {
+    "label": "Emelyn Honig",
+    "count": 0
+  },
+  "Q22644": {
+    "label": "Rudolph Burckhardt",
+    "count": 0
+  },
+  "Q22645": {
+    "label": "Ugo Mulas",
+    "count": 0
+  },
+  "Q22657": {
+    "label": "Eric Rawson",
+    "count": 1
+  },
+  "Q22659": {
+    "label": "Stan Vanderbeek",
+    "count": 2
+  },
+  "Q22661": {
+    "label": "Albert A. List",
+    "count": 2
+  },
+  "Q22662": {
+    "label": "Joseph C. Wilson",
+    "count": 1
+  },
+  "Q22663": {
+    "label": "Mrs. Albert A. List",
+    "count": 0
+  },
+  "Q22664": {
+    "label": "Fred Waldhauer",
+    "count": 0
+  },
+  "Q22666": {
+    "label": "Robert Kennedy",
+    "count": 2
+  },
+  "Q22670": {
+    "label": "Jay Bell",
+    "count": 0
+  },
+  "Q22685": {
+    "label": "Herwig Kogelnik",
+    "count": 1
+  },
+  "Q22691": {
+    "label": "Jay Huggins",
+    "count": 0
+  },
+  "Q22692": {
+    "label": "Neil Waldhauer",
+    "count": 0
+  },
+  "Q22934": {
+    "label": "John Lindsey",
+    "count": 5
+  },
+  "Q23200": {
+    "label": "Christine Williams",
+    "count": 4
+  },
+  "Q23201": {
+    "label": "Christopher Rauschenberg",
+    "count": 2
+  },
+  "Q25525": {
+    "label": "Nina Sundell",
+    "count": 2
+  },
+  "Q25640": {
+    "label": "Marti Mayo",
+    "count": 1
+  },
+  "Q25736": {
+    "label": "Laurie Anderson",
+    "count": 1
+  },
+  "Q25737": {
+    "label": "Richard Rutledge",
+    "count": 1
+  },
+  "Q25740": {
+    "label": "Marcel Duchamp",
+    "count": 1
+  },
+  "Q25742": {
+    "label": "Isamu Noguchi",
+    "count": 1
+  },
+  "Q25763": {
+    "label": "DeWitt Godfrey",
+    "count": 0
+  },
+  "Q19600": {
+    "label": "Soren Brunes",
+    "count": 3
+  },
+  "Q19606": {
+    "label": "Steve Paxton",
+    "count": 51
+  },
+  "Q19608": {
+    "label": "Stretch Winslow",
+    "count": 3
+  },
+  "Q19609": {
+    "label": "Sue Hartnett",
+    "count": 6
+  },
+  "Q19613": {
+    "label": "Ted Kennedy",
+    "count": 1
+  },
+  "Q19617": {
+    "label": "Terry M. Riley",
+    "count": 5
+  },
+  "Q19627": {
+    "label": "Thelma Schumacher",
+    "count": 3
+  },
+  "Q19628": {
+    "label": "Theodore W. Kheel",
+    "count": 15
+  },
+  "Q19630": {
+    "label": "Thomas Buehler",
+    "count": 1
+  },
+  "Q19633": {
+    "label": "Toby Mussman",
+    "count": 2
+  },
+  "Q19634": {
+    "label": "Tom Dissinger",
+    "count": 1
+  },
+  "Q19635": {
+    "label": "Tom Gormley",
+    "count": 3
+  },
+  "Q19636": {
+    "label": "Tom Mee",
+    "count": 3
+  },
+  "Q19637": {
+    "label": "Tom Wesselmann",
+    "count": 2
+  },
+  "Q19638": {
+    "label": "Tony Conrad",
+    "count": 2
+  },
+  "Q19639": {
+    "label": "Tony Smith",
+    "count": 2
+  },
+  "Q19640": {
+    "label": "Tony Trozzolo",
+    "count": 2
+  },
+  "Q19641": {
+    "label": "Toshi Ichiyanagi",
+    "count": 4
+  },
+  "Q19642": {
+    "label": "Treitel-Gratz",
+    "count": 1
+  },
+  "Q19643": {
+    "label": "Trisha Brown",
+    "count": 14
+  },
+  "Q19645": {
+    "label": "Twyla Tharp",
+    "count": 2
+  },
+  "Q19647": {
+    "label": "Ulla Lyttkens",
+    "count": 3
+  },
+  "Q19648": {
+    "label": "Ulla Wiggen",
+    "count": 3
+  },
+  "Q19652": {
+    "label": "Vaslav Nijinsky",
+    "count": 1
+  },
+  "Q19654": {
+    "label": "Vera G. List",
+    "count": 6
+  },
+  "Q19655": {
+    "label": "Vernon Lobb",
+    "count": 2
+  },
+  "Q19656": {
+    "label": "Victor W. Ganz",
+    "count": 1
+  },
+  "Q19657": {
+    "label": "Vikram Sarabhai",
+    "count": 3
+  },
+  "Q19658": {
+    "label": "Virgina Dwan",
+    "count": 1
+  },
+  "Q19661": {
+    "label": "Walter Allner",
+    "count": 2
+  },
+  "Q19662": {
+    "label": "Walter Gutman",
+    "count": 6
+  },
+  "Q19663": {
+    "label": "Walter W. Straley",
+    "count": 2
+  },
+  "Q19664": {
+    "label": "Warren Brodey",
+    "count": 3
+  },
+  "Q19669": {
+    "label": "Wesley Barry",
+    "count": 2
+  },
+  "Q19672": {
+    "label": "William Davis",
+    "count": 4
+  },
+  "Q19673": {
+    "label": "Witt Wittnebert",
+    "count": 3
+  },
+  "Q19676": {
+    "label": "Yale Joel",
+    "count": 3
+  },
+  "Q19677": {
+    "label": "Yvonne Rainer",
+    "count": 27
+  },
+  "Q19678": {
+    "label": "Zbigniew Brzezinski",
+    "count": 2
+  },
+  "Q24077": {
+    "label": "Bill Mier",
+    "count": 1
+  },
+  "Q24078": {
+    "label": "Don Bekerman",
+    "count": 1
+  },
+  "Q24080": {
+    "label": "David Haxton",
+    "count": 0
+  },
+  "Q24179": {
+    "label": "Ann \"Acey\" Wolgin",
+    "count": 1
+  },
+  "Q24180": {
+    "label": "Alan Solomon",
+    "count": 1
+  },
+  "Q24181": {
+    "label": "Barbro Ostlihn",
+    "count": 1
+  },
+  "Q24183": {
+    "label": "Will Wittnebert",
+    "count": 0
+  },
+  "Q24186": {
+    "label": "James Rosenquist",
+    "count": 1
+  },
+  "Q24187": {
+    "label": "Gordon Mumma",
+    "count": 1
+  },
+  "Q24188": {
+    "label": "Lowell Cross",
+    "count": 3
+  },
+  "Q24189": {
+    "label": "Pete Kaminski",
+    "count": 1
+  },
+  "Q24190": {
+    "label": "Jim Tenney",
+    "count": 1
+  },
+  "Q24191": {
+    "label": "Jackie Leavitt",
+    "count": 1
+  },
+  "Q24192": {
+    "label": "Susanne De Maria",
+    "count": 2
+  },
+  "Q24193": {
+    "label": "Ken Dewey",
+    "count": 1
+  },
+  "Q24194": {
+    "label": "Bertrand Russel",
+    "count": 1
+  },
+  "Q24196": {
+    "label": "W.C. Fields",
+    "count": 1
+  },
+  "Q24197": {
+    "label": "Carlo Derkert",
+    "count": 1
+  },
+  "Q24666": {
+    "label": "Gilmore Schjeldahl",
+    "count": 1
+  },
+  "Q24681": {
+    "label": "Princess Christina, Mrs. Magnuson",
+    "count": 1
+  },
+  "Q24682": {
+    "label": "Ellsworth Kelly",
+    "count": 1
+  },
+  "Q24683": {
+    "label": "Dan Flavin",
+    "count": 1
+  },
+  "Q24686": {
+    "label": "Jacqueline Matisse Monnier",
+    "count": 1
+  },
+  "Q24688": {
+    "label": "Margaretha Asberg",
+    "count": 1
+  },
+  "Q24690": {
+    "label": "Manfred Schneider",
+    "count": 0
+  },
+  "Q24699": {
+    "label": "Irina Nakhova",
+    "count": 1
+  },
+  "Q24712": {
+    "label": "Lucy Young",
+    "count": 1
+  },
+  "Q24713": {
+    "label": "Neils Young",
+    "count": 1
+  },
+  "Q20514": {
+    "label": "K. G. Pontus Hulten",
+    "count": 25
+  },
+  "Q20534": {
+    "label": "Shriver",
+    "count": 2
+  },
+  "Q20535": {
+    "label": "Kramer",
+    "count": 1
+  },
+  "Q20543": {
+    "label": "Mrs. J. Brown",
+    "count": 1
+  },
+  "Q21307": {
+    "label": "Erika Abeel",
+    "count": 1
+  },
+  "Q23887": {
+    "label": "George Manupelli",
+    "count": 2
+  },
+  "Q23888": {
+    "label": "Joseph Wehrer",
+    "count": 1
+  },
+  "Q23900": {
+    "label": "Harry Hewes",
+    "count": 1
+  },
+  "Q23902": {
+    "label": "Mr. Margolies",
+    "count": 1
+  },
+  "Q24016": {
+    "label": "Irene Svensson",
+    "count": 1
+  },
+  "Q24017": {
+    "label": "Olof Lagercrantz",
+    "count": 1
+  },
+  "Q24018": {
+    "label": "Alfredo Bonino",
+    "count": 1
+  },
+  "Q24044": {
+    "label": "Ben F. Waple",
+    "count": 3
+  },
+  "Q24047": {
+    "label": "Virginia Kondratief",
+    "count": 1
+  },
+  "Q24072": {
+    "label": "Steve Mark",
+    "count": 2
+  },
+  "Q24073": {
+    "label": "Gautam Sarabhai",
+    "count": 3
+  },
+  "Q24074": {
+    "label": "Aline Saarinen",
+    "count": 1
+  },
+  "Q24075": {
+    "label": "Suzi Gablik",
+    "count": 1
+  },
+  "Q24076": {
+    "label": "Ed Langsam",
+    "count": 1
+  },
+  "Q24343": {
+    "label": "Space Girl",
+    "count": 1
+  },
+  "Q24387": {
+    "label": "Hans Haacke",
+    "count": 1
+  },
+  "Q24407": {
+    "label": "David Thomas",
+    "count": 1
+  },
+  "Q24409": {
+    "label": "Forrest Myers",
+    "count": 4
+  },
+  "Q24410": {
+    "label": "Tony Martin",
+    "count": 1
+  },
+  "Q24416": {
+    "label": "Ardison Phillips",
+    "count": 2
+  },
+  "Q24417": {
+    "label": "John Pearce",
+    "count": 2
+  },
+  "Q24418": {
+    "label": "Ritty Burchfield",
+    "count": 1
+  },
+  "Q24419": {
+    "label": "Jackie Serwer",
+    "count": 1
+  },
+  "Q24420": {
+    "label": "Dore Weiner",
+    "count": 1
+  },
+  "Q24421": {
+    "label": "Sachiko Tamai",
+    "count": 1
+  },
+  "Q24422": {
+    "label": "John Ryde",
+    "count": 1
+  },
+  "Q24423": {
+    "label": "Carla Harrison",
+    "count": 1
+  },
+  "Q24424": {
+    "label": "Gordon Garmire",
+    "count": 1
+  },
+  "Q24425": {
+    "label": "Lori Van\u2019t Slot",
+    "count": 1
+  },
+  "Q24426": {
+    "label": "Harry Harper",
+    "count": 1
+  },
+  "Q24427": {
+    "label": "Howard Chesney",
+    "count": 1
+  },
+  "Q24428": {
+    "label": "Maja Kl\u00fcver",
+    "count": 1
+  },
+  "Q24429": {
+    "label": "Sig Stenlund",
+    "count": 1
+  },
+  "Q24430": {
+    "label": "Vikram Sarabhai",
+    "count": 0
+  },
+  "Q24431": {
+    "label": "Porter MacCray",
+    "count": 1
+  },
+  "Q24432": {
+    "label": "Jeffrey Lew",
+    "count": 1
+  },
+  "Q24433": {
+    "label": "Kate Rediker",
+    "count": 1
+  },
+  "Q24434": {
+    "label": "Marion Zazeela",
+    "count": 1
+  },
+  "Q24435": {
+    "label": "John Krauskopf",
+    "count": 1
+  },
+  "Q23213": {
+    "label": "Elaine Sturtevant",
+    "count": 1
+  },
+  "Q23214": {
+    "label": "Marilyn Wood",
+    "count": 1
+  },
+  "Q23215": {
+    "label": "Judith Doty",
+    "count": 1
+  },
+  "Q23354": {
+    "label": "Pete Cummiskey",
+    "count": 1
+  },
+  "Q23355": {
+    "label": "Fred Cooper",
+    "count": 1
+  },
+  "Q23511": {
+    "label": "Masanaka Sato",
+    "count": 1
+  },
+  "Q23518": {
+    "label": "Alice Schwebke",
+    "count": 1
+  },
+  "Q23521": {
+    "label": "William Klauz",
+    "count": 1
+  },
+  "Q23523": {
+    "label": "Herman M. Lutz",
+    "count": 1
+  },
+  "Q23537": {
+    "label": "Jim Anderson",
+    "count": 1
+  },
+  "Q24436": {
+    "label": "Uchikiro Nakaya",
+    "count": 1
+  },
+  "Q24437": {
+    "label": "Julie Magura",
+    "count": 1
+  },
+  "Q24438": {
+    "label": "Sakiko Nakaya",
+    "count": 1
+  },
+  "Q24439": {
+    "label": "Col. Robert Cox",
+    "count": 1
+  },
+  "Q24440": {
+    "label": "Barbro Schultz Lundestam",
+    "count": 1
+  },
+  "Q24441": {
+    "label": "Hedi Sorger",
+    "count": 1
+  },
+  "Q24442": {
+    "label": "John Tormey",
+    "count": 1
+  },
+  "Q24443": {
+    "label": "Jill Krauskopf Gellene",
+    "count": 1
+  },
+  "Q24461": {
+    "label": "Lowell Van\u2019t Slot",
+    "count": 1
+  },
+  "Q24462": {
+    "label": "Eric Saarinen",
+    "count": 1
+  },
+  "Q24476": {
+    "label": "David McDermott",
+    "count": 1
+  },
+  "Q24477": {
+    "label": "Jared Bark",
+    "count": 1
+  },
+  "Q24478": {
+    "label": "La Monte Young",
+    "count": 1
+  },
+  "Q24529": {
+    "label": "children",
+    "count": 1
+  },
+  "Q24538": {
+    "label": "Willem Sandberg",
+    "count": 1
+  }
+}
